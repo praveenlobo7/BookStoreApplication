@@ -1,0 +1,13 @@
+D:\Freelance\BookStoreApplication\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.exe.config
+D:\Freelance\BookStoreApplication\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+D:\Freelance\BookStoreApplication\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+D:\Freelance\BookStoreApplication\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+D:\Freelance\BookStoreApplication\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+C:\Users\opc\Desktop\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.exe.config
+C:\Users\opc\Desktop\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+C:\Users\opc\Desktop\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+C:\Users\opc\Desktop\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csprojAssemblyReference.cache
+C:\Users\opc\Desktop\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\opc\Desktop\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+C:\Users\opc\Desktop\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+D:\Freelance\BookStoreApplication\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csprojResolveAssemblyReference.cache
